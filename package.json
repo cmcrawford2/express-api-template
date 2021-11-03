@@ -1,0 +1,24 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "description": "Backend primer",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcrawford2/express-api-template.git"
+  },
+  "keywords": [
+    "express",
+    "postgres",
+    "node"
+  ],
+  "author": "Cris",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cmcrawford2/express-api-template/issues"
+  },
+  "homepage": "https://github.com/cmcrawford2/express-api-template#readme"
+}
